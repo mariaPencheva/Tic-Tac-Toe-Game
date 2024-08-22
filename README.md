@@ -7,7 +7,6 @@ This repository contains a simple yet fully functional Tic-Tac-Toe game built wi
 - [Getting Started](#getting-started)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Possible Improvements]()
 - [Contributing](#contributing)
 
 ## Introduction
@@ -35,25 +34,25 @@ Ensure you have the following installed on your machine:
 
 1. **Clone the Repository**
 
-   ```bash
-   git clone https://github.com/your-username/tic-tac-toe-game.git
-   cd tic-tac-toe-game
-   ```
+      ```sh
+      git clone https://github.com/your-username/tic-tac-toe-game.git
+      cd tic-tac-toe-game
+      ```
 
 2. **Install Dependencies**
 
-Run the following command to install the necessary dependencies:
+   Run the following command to install the necessary dependencies:
 
-    ```bash
-    npm install
-    ```
+      ```sh
+      npm install
+      ```      
 
 ## Usage
 To run the application locally, use the following command:
 
-    ```bash
-    npm start
-    ```
+      ```sh
+      npm start
+      ```
 
 ## Contributing
 Contributions are welcome! If you have ideas to improve this project, feel free to fork the repository and submit a pull request. You can also open issues for bugs or feature requests.
